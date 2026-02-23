@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanru Guan"
   avatar           : "images/512x512.png"
-  bio              : “undergraduate"
+  bio              : "EECS, Peking University"
   location         : "Pittsburgh, United States"
-  employer         : "EECS, Peking University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "piscesguan@stu.pku.edu.cn"
