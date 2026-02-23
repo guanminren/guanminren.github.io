@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the Carnegie Mellon University School of Computer Science (SCS). 
+- *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and giving a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
