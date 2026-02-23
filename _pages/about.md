@@ -25,7 +25,7 @@ redirect_from:
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
-    - **GPA 3.908/4.000**
+    - **GPA 3.908/4.000**, English(TOEFL 113/120, Speaking 29)
 - *2020.8 ~ 2023.6*, Highschool student, No.2 High School of East China Normal University \\
     - Honor of Distinguished Graduation(top 10/400)
 
