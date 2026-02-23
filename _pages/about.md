@@ -46,7 +46,7 @@ redirect_from:
   - Advised by - Advised by Prof. Tiao Lu.
 
 - Conference Reviewer \\
-  FOCS 2024, AIMS @ ICLR 2026
+  - FOCS 2024, AIMS @ ICLR 2026
 
 # 🎖 SELECTED AWARDS and HONORS
 
