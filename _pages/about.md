@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the Carnegie Mellon University School of Computer Science (SCS). 
+- *2025.12*: &nbsp;🎉🎉 I will be attending WINE 2025 at Rutgers University and giving a talk.
 
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, Carnegie Mellon University. 
@@ -36,17 +36,35 @@ redirect_from:
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
 # 💻 RESEARCH EXPERIENCE
-- *2023.10 ~ Presen*, Research Intern at DaGAME Lab, Peking University \\
+- *2023.10 ~ Present*, Research Intern at DaGAME Lab, Peking University \\
   - Advised by Prof. Xiaotie Deng.
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
-  - Advised by Adivsed by Yuhui Yuan..
+  - Advised by Adivsed by Yuhui Yuan.
  
 - *2024.5*, Course Project, Numerical Methods: Principles, Algorithms and Applications \\
   - Advised by - Advised by Prof. Tiao Lu.
 
 - Conference Reviewer \\
   - FOCS 2024, AIMS @ ICLR 2026
+
+# 💻 PROFESSIONAL SERVICES
+- *2026.1 ~ 2026.5*, Teaching Assistant in Carnegie Mellon University\\
+  - 15-451: Algorithm Design and Analysis (Prof. Yang Liu & Richard Peng).
+
+- *2025.2 ~ 2025.6*, Teaching Assistant in Peking University \\
+  - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. Shaofeng Jiang).
+ 
+- *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp \\
+  - Advised by - Advised by Prof. Tiao Lu.
+
+- *2024.3 ~ 2024.6*, Author of the Article “Women are equally outstanding as men” \\
+  - Sharing my personal journey through the challenges and growth I experienced during my participation in NOI, while also encouragingyoung girls to discover their passion for competitive programming and to ffght for their own success.
+  - CCF Commemorative Collection for the 40th Anniversary of NOI, page 226-228.
+  - CCF stands for China Computer Federation; NOI stands for National Olympiad in Informatics.
+
+- *2022 ~ 2023*, Contributed to the Compilation of the “Informatics Olympiad Dictionary” \\
+  - The oﬀﬀcial guidebook for the Chinese Youth Informatics Olympiad. Published by China Computer Federation.
 
 # 🎖 SELECTED AWARDS and HONORS
 
