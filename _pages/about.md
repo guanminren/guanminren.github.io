@@ -33,8 +33,21 @@ My research interest includes neural machine translation and computer vision. I 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+**Research Awards**
+
+- *2025.12* HuanYu Information Quest Award, EECS, Peking University. 
+- *2025.11* Rising Star in Computer Science Research, School of Computer Science, Peking University. 
+- *2024.12* Outstanding Student, by Center on Frontiers of Computing Studies (CFCS). 
+
+**Scholarship**
+
+- *2025.09* May Fourth Scholarship, the highest-level scholarship for Peking University, 125/65k+. 
+- *2024.09* National Scholarship, the highest honor for undergraduates in China, top 0.5%. 
+- *2024.09* Merit Student, by Peking University. 
+- *2023.09* Freshman Scholarship, by Peking University. 
+- *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
