@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yanru Guan, an undergraduate in the Turing Class at Peking University (EECS ’27), and I am spending Spring 2026 as an exchange student at Carnegie Mellon University’s School of Computer Science.
+I am Yanru Guan, an undergraduate in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS ’27), and I am spending Spring 2026 as an exchange student at Carnegie Mellon University’s School of Computer Science.
 
 My research interests lie in **algorithmic game theory** and **computational economics**, with a focus on auction theory and mechanism design. I am particularly interested in understanding how incentives, information, and strategic behavior interact in algorithmic systems. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University.
 
