@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanru Guan"
-description              : ""
+description              : "PKU CS ’27 | CMU(Visiting) ’26 | ICPC World Finals ’25 Silver Medalist"
 repository               : "guanminren/guanminren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yanru Guan"
   avatar           : "images/512x512.png"
   bio              : "Peking University"
-  location         : "Beijing, China"
+  location         : "Pittsburgh, Pennsylvania, United States"
   employer         :
   pubmed           : 
   googlescholar    : 
