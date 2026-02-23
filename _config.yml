@@ -27,8 +27,9 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "piscesguan@stu.pku.edu.cn"
+  email            : "yanrug@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -57,6 +58,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/yanruguan/"
 
 
 # Reading Files
