@@ -38,26 +38,25 @@ redirect_from:
 
 # 📖 RESEARCH EXPERIENCE
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
-  - Advised by Prof. Xiaotie Deng.
+  - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
-  - Advised by Adivsed by Yuhui Yuan.
+  - Advised by Adivsed by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
  
 - *2024.5*, Course Project, Numerical Methods: Principles, Algorithms and Applications \\
-  - Advised by - Advised by Prof. Tiao Lu.
+  - Advised by - Advised by Prof. [Tiao Lu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/l_20180628175159671361/69944.htm).
 
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
 
 # 💻 PROFESSIONAL SERVICES
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
-  - 15-451: Algorithm Design and Analysis (Prof. Yang Liu & Richard Peng).
+  - 15-451: Algorithm Design and Analysis (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)).
 
 - *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
-  - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. Shaofeng Jiang).
+  - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
  
 - *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp \\
-  - Advised by - Advised by Prof. Tiao Lu.
 
 - *2024.3 ~ 2024.6*, Author of the Article “Women are equally outstanding as men” \\
   - Sharing my personal journey through the challenges and growth I experienced during my participation in NOI, while also encouragingyoung girls to discover their passion for competitive programming and to ffght for their own success.
