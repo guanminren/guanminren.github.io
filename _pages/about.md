@@ -41,10 +41,10 @@ redirect_from:
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
-  - Advised by Adivsed by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
+  - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
  
 - *2024.5*, Course Project, Numerical Methods: Principles, Algorithms and Applications \\
-  - Advised by - Advised by Prof. [Tiao Lu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/l_20180628175159671361/69944.htm).
+  - Advised by Prof. [Tiao Lu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/l_20180628175159671361/69944.htm).
 
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
