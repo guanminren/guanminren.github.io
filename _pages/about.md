@@ -23,8 +23,8 @@ redirect_from:
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 # 📖 Educations
-- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
-- *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
+- *2026.1 ~ 2026.5(<small>Expected</small>)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
+- *2023.8 ~ 2027.6(<small>Expected</small>)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.908/4.000**
 - *2020.8 ~ 2023.6*, Highschool student, No.2 High School of East China Normal University \\
     - Honor of Distinguished Graduation(top 10/400)
