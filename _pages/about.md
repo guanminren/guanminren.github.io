@@ -26,7 +26,7 @@ redirect_from:
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.908/4.000**
-    - English(TOEFL 113/120, Speaking 29)
+    - TOEFL 113/120, Speaking 29
 
 # 📝 Publications and Manuscripts
 
@@ -34,7 +34,7 @@ redirect_from:
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-# 📖 RESEARCH EXPERIENCE
+# 📖 Research Experiences
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
@@ -42,7 +42,7 @@ redirect_from:
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
 
-# 💻 PROFESSIONAL SERVICES
+# 💻 Professional Services
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
   - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
 
@@ -62,7 +62,7 @@ redirect_from:
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
-# 🎖 SELECTED AWARDS and HONORS
+# 🎖 Selected Honors and Awards
 
 **Research Awards**
 
