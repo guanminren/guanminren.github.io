@@ -20,12 +20,12 @@ redirect_from:
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the Carnegie Mellon University School of Computer Science (SCS). 
 - *2025.12*: Attended WINE 2025 at Rutgers University and giving a talk.
-- *2025.11*: Honored to be recoginzed as Rising Star in Computer Science Research， by School of Computer Science, Peking University.
+- *2025.11*: Honored to be recoginzed as <span style="color: red;">**Rising Star**</span> in Computer Science Research， by School of Computer Science, Peking University.
 
 # 📖 Educations
-- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, Carnegie Mellon University. 
-- *2023.8 ~ 2027.6(Expected)*, Undergraduate, Turing Class, School of Electronic Engineering & Computer Science(EECS), Peking University \\
-    - GPA 3.908/4.000
+- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
+- *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
+    - **GPA 3.908/4.000**
 - *2020.8 ~ 2023.6*, Highschool student, No.2 High School of East China Normal University \\
     - Honor of Distinguished Graduation(top 10/400)
 
@@ -46,7 +46,7 @@ redirect_from:
 - *2024.5*, Course Project, Numerical Methods: Principles, Algorithms and Applications \\
   - Advised by - Advised by Prof. Tiao Lu.
 
-- Conference Reviewer \\
+- **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
 
 # 💻 PROFESSIONAL SERVICES
@@ -77,15 +77,15 @@ redirect_from:
 
 **Scholarship**
 
-- *2025.09* **May Fourth Scholarship**, the highest-level scholarship for Peking University, 125/65k+. 
-- *2024.09* **National Scholarship**, the highest honor for undergraduates in China, top 0.5%. 
+- *2025.09* <span style="color: red;">**May Fourth Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
+- *2024.09* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
 - *2024.09* Merit Student, by Peking University. 
 - *2023.09* Freshman Scholarship, by Peking University. 
 - *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
 
 **Competitive Programming**
 
-- *2025.09* **5th place, The 2025 ICPC World Finals**. 
+- *2025.09* <span style="color: red;">**5th place, The 2025 ICPC World Finals**</span>. 
 - *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
 - *2024.11* Champion, The 2024 ICPC Asia Hangzhou Regional Contest. 
 - *2024.03* Gold Medal, The 9th China Collegiate Programming Contest(CCPC) Final Contest. 
