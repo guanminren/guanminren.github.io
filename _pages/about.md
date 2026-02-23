@@ -64,7 +64,7 @@ redirect_from:
   - CCF stands for China Computer Federation; NOI stands for National Olympiad in Informatics.
 
 - *2022 ~ 2023*, Contributed to the Compilation of the “Informatics Olympiad Dictionary” \\
-  - The offcial guidebook for the Chinese Youth Informatics Olympiad. Published by China Computer Federation.
+  - The official guidebook for the Chinese Youth Informatics Olympiad. Published by China Computer Federation.
 
 # 🎖 SELECTED AWARDS and HONORS
 
