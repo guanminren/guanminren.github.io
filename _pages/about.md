@@ -42,10 +42,9 @@ redirect_from:
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
 
-
 # 💻 PROFESSIONAL SERVICES
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
-  - 15-451: Algorithm Design and Analysis (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)).
+  - 15-451: Algorithm Design and Analysis (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). [link](https://www.cs.cmu.edu/~yangp/15-451/)
 
 - *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
   - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
@@ -59,9 +58,6 @@ redirect_from:
 
 - *2025.12*, **China IOI 2026 Training Camp**\\
   Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouragingyounger students to aim higher and stay true to their interests.
-
-- *2024.08*, **IJCAI 2024 GAAMAL Workshop**\\
-  Presenting AI algorithms used by our bot in the IJCAI2024 Mahjong AI Competition. Collaborators: Jianfeng Zhu, Xinyang Chen
 
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
