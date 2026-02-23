@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanru Guan"
-description              : "PKU CS ’27 | CMU(Visiting) ’26 | ICPC World Finals ’25 Silver Medalist"
+description              : "PKU CS ’27 \ CMU(Visiting) ’26 \ ICPC World Finals ’25 Silver Medalist"
 repository               : "guanminren/guanminren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanru Guan"
   avatar           : "images/512x512.png"
-  bio              : "Peking University"
-  location         : "Pittsburgh, Pennsylvania, United States"
+  bio              : "EECS, Peking University"
+  location         : "Pittsburgh, United States"
   employer         :
   pubmed           : 
   googlescholar    : 
