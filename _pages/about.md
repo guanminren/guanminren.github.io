@@ -59,12 +59,12 @@ redirect_from:
 - *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp 
 
 - *2024.3 ~ 2024.6*, Author of the Article “Women are equally outstanding as men” \\
-  - Sharing my personal journey through the challenges and growth I experienced during my participation in NOI, while also encouragingyoung girls to discover their passion for competitive programming and to ffght for their own success.
+  - Sharing my personal journey through the challenges and growth I experienced during my participation in NOI, while also encouragingyoung girls to discover their passion for competitive programming and to fight for their own success.
   - CCF Commemorative Collection for the 40th Anniversary of NOI, page 226-228.
   - CCF stands for China Computer Federation; NOI stands for National Olympiad in Informatics.
 
 - *2022 ~ 2023*, Contributed to the Compilation of the “Informatics Olympiad Dictionary” \\
-  - The oﬀﬀcial guidebook for the Chinese Youth Informatics Olympiad. Published by China Computer Federation.
+  - The offcial guidebook for the Chinese Youth Informatics Olympiad. Published by China Computer Federation.
 
 # 🎖 SELECTED AWARDS and HONORS
 
