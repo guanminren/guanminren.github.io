@@ -20,7 +20,7 @@ redirect_from:
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the Carnegie Mellon University School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and giving a talk.
-- *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research， by School of Computer Science, Peking University.
+- *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
@@ -56,7 +56,7 @@ redirect_from:
 - *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
   - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
  
-- *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp \\
+- *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp 
 
 - *2024.3 ~ 2024.6*, Author of the Article “Women are equally outstanding as men” \\
   - Sharing my personal journey through the challenges and growth I experienced during my participation in NOI, while also encouragingyoung girls to discover their passion for competitive programming and to ffght for their own success.
