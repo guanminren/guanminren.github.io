@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-# 🎖 SELECTED AWARDS & HONORS
+# 🎖 SELECTED AWARDS and HONORS
 
 **Research Awards**
 
@@ -62,14 +62,22 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, Carnegie Mellon University. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, Turing Class, School of Electronic Engineering & Computer Science(EECS), Peking University
-  GPA 3.908/4.000
+    GPA 3.908/4.000
 - *2020.8 ~ 2023.6*, Highschool student, No.2 High School of East China Normal University
-  Honor of Distinguished Graduation(top 10/400)
-
+    Honor of Distinguished Graduation(top 10/400)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.12*, The 21st Conference on Web and Internet Economics (WINE 2025) 
+  Presented paper ”Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time”on behalf of the authors Kai Han and Pinyan Lu.
+
+- *2025.12*, China IOI 2026 Training Camp
+  Shared reffections on my personal growth from high school to college, focusing on the transition between the two stages and encouragingyounger students to aim higher and stay true to their interests.
+
+- *2024.08*, IJCAI 2024 GAAMAL Workshop
+  Presenting AI algorithms used by our bot in the IJCAI2024 Mahjong AI Competition. Collaborators: Jianfeng Zhu, Xinyang Chen
+
+- *2024.05*, Asia-Paciffc Informatics Olympiad (APIO) 2024
+  Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
