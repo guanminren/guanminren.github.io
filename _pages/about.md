@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-# 🎖 Honors and Awards
+# 🎖 SELECTED AWARDS & HONORS
 
 **Research Awards**
 
@@ -48,10 +48,24 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.09* Freshman Scholarship, by Peking University. 
 - *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
 
+**Competitive Programming**
+
+- *2025.09* Silver Medal, 5th place, The 2025 ICPC World Finals. 
+- *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
+- *2024.11* Champion, The 2024 ICPC Asia Hangzhou Regional Contest. 
+- *2024.03* Gold Medal, The 9th China Collegiate Programming Contest(CCPC) Final Contest. 
+- *2024.01* Gold Medal, The 2023 ICPC East-Asia Continent Final Contest. 
+- *2023.12* Champion, The 2023 ICPC Asia Jinan Regional Contest. 
+- *2023.11* Champion, 2023 China Collegiate Programming Contest (Shenzhen). 
+- *2022.08* Gold Medal, Best Female Player, National Olympiad in Informatics(NOI). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, Carnegie Mellon University. 
+- *2023.8 ~ 2027.6(Expected)*, Undergraduate, Turing Class, School of Electronic Engineering & Computer Science(EECS), Peking University
+  GPA 3.908/4.000
+- *2020.8 ~ 2023.6*, Highschool student, No.2 High School of East China Normal University
+  Honor of Distinguished Graduation(top 10/400)
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
