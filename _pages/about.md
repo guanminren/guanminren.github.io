@@ -44,7 +44,7 @@ redirect_from:
 
 # 💻 PROFESSIONAL SERVICES
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
-  - 15-451: Algorithm Design and Analysis (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). [link](https://www.cs.cmu.edu/~yangp/15-451/)
+  - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
 
 - *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
   - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
