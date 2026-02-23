@@ -19,8 +19,8 @@ redirect_from:
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the Carnegie Mellon University School of Computer Science (SCS). 
-- *2025.12*: I will be attending WINE 2025 at Rutgers University and giving a talk.
-- *2025.11*: I am honored to be recoginzed Rising Star in Computer Science Research， by School of Computer Science, Peking University.
+- *2025.12*: Attended WINE 2025 at Rutgers University and giving a talk.
+- *2025.11*: Honored to be recoginzed as Rising Star in Computer Science Research， by School of Computer Science, Peking University.
 
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, Carnegie Mellon University. 
@@ -36,8 +36,8 @@ redirect_from:
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-# 💻 RESEARCH EXPERIENCE
-- *2023.10 ~ Present*, Research Intern at DaGAME Lab, Peking University \\
+# 📖 RESEARCH EXPERIENCE
+- *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. Xiaotie Deng.
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
@@ -50,10 +50,10 @@ redirect_from:
   - FOCS 2024, AIMS @ ICLR 2026
 
 # 💻 PROFESSIONAL SERVICES
-- *2026.1 ~ 2026.5*, Teaching Assistant in Carnegie Mellon University\\
+- *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
   - 15-451: Algorithm Design and Analysis (Prof. Yang Liu & Richard Peng).
 
-- *2025.2 ~ 2025.6*, Teaching Assistant in Peking University \\
+- *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
   - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. Shaofeng Jiang).
  
 - *2023 ~ 2024*, External Coach at Shandong Provincial Informatics Olympiad Training Camp \\
@@ -72,20 +72,20 @@ redirect_from:
 **Research Awards**
 
 - *2025.12* HuanYu Information Quest Award, EECS, Peking University. 
-- *2025.11* Rising Star in Computer Science Research, School of Computer Science, Peking University. 
-- *2024.12* Outstanding Student, by Center on Frontiers of Computing Studies (CFCS). 
+- *2025.11* **Rising Star** in Computer Science Research, School of Computer Science, Peking University. 
+- *2024.12* **Outstanding Student**, by Center on Frontiers of Computing Studies (CFCS). 
 
 **Scholarship**
 
-- *2025.09* May Fourth Scholarship, the highest-level scholarship for Peking University, 125/65k+. 
-- *2024.09* National Scholarship, the highest honor for undergraduates in China, top 0.5%. 
+- *2025.09* **May Fourth Scholarship**, the highest-level scholarship for Peking University, 125/65k+. 
+- *2024.09* **National Scholarship**, the highest honor for undergraduates in China, top 0.5%. 
 - *2024.09* Merit Student, by Peking University. 
 - *2023.09* Freshman Scholarship, by Peking University. 
 - *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
 
 **Competitive Programming**
 
-- *2025.09* 5th place, The 2025 ICPC World Finals. 
+- *2025.09* **5th place, The 2025 ICPC World Finals**. 
 - *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
 - *2024.11* Champion, The 2024 ICPC Asia Hangzhou Regional Contest. 
 - *2024.03* Gold Medal, The 9th China Collegiate Programming Contest(CCPC) Final Contest. 
