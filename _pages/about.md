@@ -70,7 +70,7 @@ redirect_from:
 - *2025.11* **Rising Star** in Computer Science Research, School of Computer Science, Peking University. 
 - *2024.12* **Outstanding Student**, by Center on Frontiers of Computing Studies (CFCS). 
 
-**Scholarship**
+**Scholarships**
 
 - *2025.09* <span style="color: red;">**May Fourth Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
 - *2024.09* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
