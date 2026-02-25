@@ -23,7 +23,7 @@ I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku
 
 My interests lie in the design and analysis of algorithmic systems that involving incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
 
-I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, working alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
+I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
