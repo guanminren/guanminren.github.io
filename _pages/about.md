@@ -46,10 +46,9 @@ In addition to research, I have been actively involved in competitive programmin
 [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)
 
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang 
+(Alphabetical order)
 
 [[**Paper**]](https://arxiv.org/abs/2507.04030)
-<!-- <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong> -->
-- This paper introduces **Data:** InterMT, a pioneering preference dataset for multi-turn multimodal interactions, comprising 15.6k prompts and 32.4k human-annotated preference pairs. It employs an innovative agentic workflow that utilizes tool-augmented MLLMs to generate multi-turn QA instances. **Algorithm:** The work proposes chain-prefix local and global preference modeling for training judge models, demonstrating *multi-turn scaling law*. **Evaluation:** The study evaluates model capabilities in multi-turn multimodal scenarios through InterMT-Bench.
 </div>
 </div>
 
