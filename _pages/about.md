@@ -45,7 +45,7 @@ In addition to research, I have been actively involved in competitive programmin
 
 [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)
 
-Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang 
+Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang \\
 (Alphabetical order)
 
 [[**Paper**]](https://arxiv.org/abs/2507.04030)
