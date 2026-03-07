@@ -36,7 +36,7 @@ In addition to research, I have been actively involved in competitive programmin
 # Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
-    - **GPA 3.908/4.000**
+    - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
 
 # Publications and Manuscripts
