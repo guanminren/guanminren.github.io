@@ -66,8 +66,11 @@ In addition to research, I have been actively involved in competitive programmin
   - FOCS 2024, AIMS @ ICLR 2026
 
 # Invited Talks
+- *2026.03*, **Northwestern CS Theory Seminar** \\
+  Presented paper “Ex-Ante Truthful Distribution-Reporting Mechanisms”.
+
 - *2026.02*, **CMU Econ-CS Seminar** \\
-  Presented paper ”Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time”on behalf of the authors Kai Han and Pinyan Lu.
+  Presented paper “Ex-Ante Truthful Distribution-Reporting Mechanisms”.
 
 - *2025.12*, **The 21st Conference on Web and Internet Economics (WINE 2025)** \\
   Presented paper ”Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time”on behalf of the authors Kai Han and Pinyan Lu.
