@@ -28,6 +28,7 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
 # News
+- *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
 - *2026.03*: Attended **Northwestern CS Theory Seminar** and presented a talk.
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/). 
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
@@ -56,6 +57,9 @@ In addition to research, I have been actively involved in competitive programmin
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
 # Professional Services
+- *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**\\
+  - Also joined ICPC Live as a guest commentator and conducted the post-contest interview for the 2026 ICPC North America Championship.
+  
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
   - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
 
