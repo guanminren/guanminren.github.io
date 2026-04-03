@@ -31,7 +31,7 @@ In addition to research, I have been actively involved in competitive programmin
   margin-bottom: 20px;
   line-height: 1;
   padding: 0;
-"></div>
+">&nbsp;</div>
 
 # News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
