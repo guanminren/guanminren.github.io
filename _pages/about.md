@@ -27,7 +27,11 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022. 
 
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 10px;
+  line-height: 1;
+  padding: 0;
+"></div>
 
 # News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
