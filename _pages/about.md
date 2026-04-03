@@ -27,7 +27,7 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
@@ -37,7 +37,7 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
@@ -45,7 +45,7 @@ In addition to research, I have been actively involved in competitive programmin
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Publications and Manuscripts
 
@@ -55,7 +55,7 @@ In addition to research, I have been actively involved in competitive programmin
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Research Experiences
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
@@ -64,7 +64,7 @@ In addition to research, I have been actively involved in competitive programmin
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Professional Services
 - *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**\\
@@ -79,7 +79,7 @@ In addition to research, I have been actively involved in competitive programmin
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Invited Talks
 - *2026.03*, **Northwestern CS Theory Seminar** \\
@@ -97,7 +97,7 @@ In addition to research, I have been actively involved in competitive programmin
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
-<div style="height: 1px"></div>
+<div style="height: 1px;"></div>
 
 # Selected Honors and Awards
 
