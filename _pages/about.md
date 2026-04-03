@@ -25,9 +25,7 @@ My interests lie in the design and analysis of algorithmic systems that involvin
 
 I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
-In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.\\
-
-<div style="height: 1px;"></div>
+In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022. <br>
 
 # News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
