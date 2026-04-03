@@ -36,7 +36,6 @@ In addition to research, I have been actively involved in competitive programmin
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
-
 <div style="height: 1px;"></div>
 
 # Educations
@@ -44,7 +43,6 @@ In addition to research, I have been actively involved in competitive programmin
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
-
 <div style="height: 1px;"></div>
 
 # Publications and Manuscripts
@@ -54,7 +52,6 @@ In addition to research, I have been actively involved in competitive programmin
 - [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
-
 <div style="height: 1px;"></div>
 
 # Research Experiences
