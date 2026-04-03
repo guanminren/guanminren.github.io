@@ -27,6 +27,9 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
+
+\\
+
 # News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
 - *2026.03*: Attended **Northwestern CS Theory Seminar** and presented a talk.
@@ -35,11 +38,15 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
+\\
+
 # Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
+
+\\
 
 # Publications and Manuscripts
 
