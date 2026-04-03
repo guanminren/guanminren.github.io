@@ -56,12 +56,16 @@ In addition to research, I have been actively involved in competitive programmin
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
+<br>
+
 # Research Experiences
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
+
+<br>
 
 # Professional Services
 - *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**\\
@@ -75,6 +79,8 @@ In addition to research, I have been actively involved in competitive programmin
 
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
+
+<br>
 
 # Invited Talks
 - *2026.03*, **Northwestern CS Theory Seminar** \\
@@ -91,6 +97,8 @@ In addition to research, I have been actively involved in competitive programmin
 
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
+
+<br>
 
 # Selected Honors and Awards
 
