@@ -52,7 +52,11 @@ In addition to research, I have been actively involved in competitive programmin
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
 # Publications and Manuscripts
 
@@ -61,7 +65,11 @@ In addition to research, I have been actively involved in competitive programmin
 - [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
 # Research Experiences
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
@@ -70,7 +78,11 @@ In addition to research, I have been actively involved in competitive programmin
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
 # Professional Services
 - *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**\\
@@ -85,7 +97,11 @@ In addition to research, I have been actively involved in competitive programmin
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
 
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
 # Invited Talks
 - *2026.03*, **Northwestern CS Theory Seminar** \\
@@ -103,7 +119,11 @@ In addition to research, I have been actively involved in competitive programmin
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
-<div style="height: 1px;"></div>
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
 # Selected Honors and Awards
 
