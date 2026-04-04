@@ -41,7 +41,11 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
-&nbsp;
+<div style="
+  margin-bottom: 10px;
+  line-height: 1;
+  padding: 0;
+">&nbsp;</div>
 
 # Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
