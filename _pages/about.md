@@ -42,8 +42,8 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 <div style="
-  margin-bottom: 10px;
-  line-height: 1;
+  margin-bottom: 5px;
+  line-height: 0.5;
   padding: 0;
 ">&nbsp;</div>
 
