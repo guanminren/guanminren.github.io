@@ -27,7 +27,7 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022. 
 
-[CV](yanru_cv 202604.pdf)
+Here is my [CV](yanru_cv 202604.pdf).
 
 <div style="
   margin-bottom: 10px;
