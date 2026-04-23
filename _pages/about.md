@@ -73,6 +73,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 
 [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang, **ICLR 2026 Workshop AIMS**
 
+</div>
+</div>
 
 <div style="
   margin-bottom: 5px;
