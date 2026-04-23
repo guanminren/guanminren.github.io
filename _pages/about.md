@@ -61,13 +61,14 @@ Here is my [CV](yanru_cv 202604.pdf).
 ">&nbsp;</div>
 
 # Publications and Manuscripts
-
-- [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang, **ICLR 2026 Workshop AIMS** bb
+<!--
+- [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang, **ICLR 2026 Workshop AIMS** 
 
 - [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
-  
+-->
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 <div class="badge">ICLR 2026 Workshop AIMS</div>
