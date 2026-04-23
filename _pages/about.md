@@ -71,7 +71,10 @@ Here is my [CV](yanru_cv 202604.pdf).
  <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 <div class="badge">ICLR 2026 Workshop AIMS</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
+<div class='paper-box-text' markdown="1">
 [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang, **ICLR 2026 Workshop AIMS**
 
 </div>
