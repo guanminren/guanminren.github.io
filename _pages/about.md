@@ -67,6 +67,81 @@ Here is my [CV](yanru_cv 202604.pdf).
 - [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
+
+  <div class="publications">
+    <h1>Publications</h1>
+    <ol class="bibliography">
+      <!-- ══════════════════════════════════════════
+           示例条目 1：ArXiv Preprint
+           复制此 <li> 并替换内容即可添加更多论文
+      ══════════════════════════════════════════ -->
+      <li>
+        <div class="row">
+          <div class="col-sm-2 abbr">
+            <abbr class="badge" style="background-color:#CBCBCB">
+              <a href="https://arxiv.org/" rel="external nofollow noopener" target="_blank">ArXiv Preprint</a>
+            </abbr>
+          </div>
+          <div class="col-sm-8">
+            <div class="title">Paper Title Here</div>
+
+            <div class="author">
+              <!-- 用 <em> 包裹第一作者/通讯作者 -->
+              <em>Your Name</em>,&nbsp;
+              <!-- 其他作者用 <a>，rel 属性保持不变 -->
+              <a href="https://example.com/" rel="external nofollow noopener" target="_blank">Co-author Name</a>,&nbsp;
+              <!-- &nbsp; 后接下一个作者，末尾用 &nbsp;and&nbsp; -->
+              and&nbsp;<a href="https://example2.com/" rel="external nofollow noopener" target="_blank">Another Author</a>
+            </div>
+
+            <div class="periodical">
+              <em>arXiv preprint arXiv:XXXX.XXXXX</em>, 2026
+            </div>
+
+            <!-- 可选：额外说明（奖项、报告等），直接写 HTML -->
+            <!-- <div class="periodical">
+              <b style="color:Red">Best Paper Award</b>
+            </div> -->
+
+            <div class="links">
+              <a href="http://arxiv.org/abs/XXXX" class="btn btn-sm z-depth-0" role="button"
+                 rel="external nofollow noopener" target="_blank">arXiv</a>
+              <!-- 继续添加 PDF / Slides / Poster / Video 等按钮 -->
+              <a href="./assets/pdf/paper.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+              <a href="./assets/pdf/slides.pdf" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            </div>
+
+            <!-- 可选：Altmetric / Dimensions 徽章（需外网加载） -->
+            <!--
+            <div class="badges">
+              <span class="altmetric-embed"
+                    data-altmetric-id=""
+                    data-hide-no-mentions="true"
+                    data-hide-less-than="15"
+                    data-badge-type="2"
+                    data-badge-popover="right"
+                    data-uuid="YOUR-UUID"></span>
+              <span class="__dimensions_badge_embed__"
+                    data-pmid=""
+                    data-hide-zero-citations="true"
+                    data-style="small_rectangle"
+                    data-legend="hover-right"
+                    style="margin-bottom: 6px;"></span>
+            </div>
+            -->
+
+            <!-- 可选：点击展开的 Abstract / Notes（需配合 JS） -->
+            <!--
+            <div class="hidden abstract" onclick="this.classList.toggle('open')">
+              <p>Abstract text goes here...</p>
+            </div>
+            -->
+          </div>
+        </div>
+      </li>
+   </ol>
+  </div>
+
 <div style="
   margin-bottom: 5px;
   line-height: 0.5;
