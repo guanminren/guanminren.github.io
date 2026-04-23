@@ -81,8 +81,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 <div class="badge">WINE 2025</div>
+<div class='paper-box-text' markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
