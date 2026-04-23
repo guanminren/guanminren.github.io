@@ -89,6 +89,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 <div class='paper-box-text' markdown="1">
 [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 
+<span style="color: red;">**Talk invited at CMU and Northwestern University**</span>
 </div>
 </div>
 
