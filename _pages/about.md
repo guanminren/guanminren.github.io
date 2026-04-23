@@ -66,7 +66,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 
 - [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
 
-- [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
+- [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review** 
 -->
 
 <div class='paper-box'>
