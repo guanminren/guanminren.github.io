@@ -71,7 +71,7 @@ Here is my [CV](yanru_cv 202604.pdf).
  <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 <div class="badge">ICLR 2026 Workshop AIMS</div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div class='paper-box-text' markdown="1">
