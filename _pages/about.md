@@ -78,7 +78,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 <div class='paper-box-text' markdown="1">
 [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993) \\
 **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin \\
-**Accepted for presentation at 2026 Marketplace Innovation Workshop**
+<!--**Accepted for presentation at 2026 Marketplace Innovation Workshop**
+-->
 
 </div>
 </div>
