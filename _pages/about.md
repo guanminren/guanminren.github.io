@@ -76,7 +76,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1">
-[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
+[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993)
+**Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
 
 </div>
 </div>
@@ -88,7 +89,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1">
-[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang,
+[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K)
+Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang,
 
 </div>
 </div>
@@ -100,7 +102,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1" width="100%">
-[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
+[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030
+Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 
 <span style="color: red;">**Talk invited at CMU and Northwestern University**</span>
 </div>
