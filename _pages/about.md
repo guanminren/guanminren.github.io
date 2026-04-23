@@ -53,7 +53,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.913/4.000**
-    - TOEFL 113/120, Speaking 29 aa
+    - TOEFL 113/120, Speaking 29 
 <div style="
   margin-bottom: 5px;
   line-height: 0.5;
@@ -76,7 +76,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1">
-[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993)
+[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993) \\
 **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
 
 </div>
@@ -89,7 +89,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1">
-[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K)\\
+[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K) \\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang,
 
 </div>
@@ -102,7 +102,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang,
 </div>
 
 <div class='paper-box-text' markdown="1" width="100%">
-[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030\\
+[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030）\\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 
 <span style="color: red;">**Talk invited at CMU and Northwestern University**</span>
