@@ -56,6 +56,9 @@ p>code, a>code, li>code { padding: 0.2rem 0.4rem; font-size: 0.9em; background: 
 }
 .greedy-nav a:hover { color: #FDB515; text-decoration: none; }
 .greedy-nav button { background: none; border: none; cursor: pointer; padding: 0.5rem; display: none; }
+@media (max-width: 57.8125em) {
+  .greedy-nav button { display: block; }
+}
 .visible-links { display: table; }
 .visible-links li { display: table-cell; vertical-align: middle; }
 .visible-links li:first-child { font-weight: bold; }
@@ -80,6 +83,12 @@ p>code, a>code, li>code { padding: 0.2rem 0.4rem; font-size: 0.9em; background: 
 }
 .hidden-links.is-visible li { display: block; list-style: none; }
 .hidden-links.is-visible a { margin: 0; padding: 0.4rem 0; }
+@media (max-width: 57.8125em) {
+  .hidden-links.is-visible {
+    position: static; box-shadow: none; border: none;
+    padding: 0.2em 0;
+  }
+}
 
 /* --- #main Layout --- */
 #main {

@@ -198,6 +198,88 @@
         var isAtBottom = (timelineContainer.scrollHeight - timelineContainer.scrollTop - timelineContainer.clientHeight) <= 1;
         scrollHint.style.opacity = isAtBottom ? '0' : '1';
       }
+
+      // Responsive nav: hamburger toggle on small screens
+      var navBtn = document.querySelector('.greedy-nav button');
+      var visibleLinks = document.querySelector('.visible-links');
+      var hiddenLinks = document.querySelector('.hidden-links');
+      var navOpen = false;
+
+      function toggleNav() {
+        navOpen = !navOpen;
+        if (hiddenLinks) hiddenLinks.classList.toggle('is-visible', navOpen);
+      }
+
+      if (navBtn) {
+        navBtn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          toggleNav();
+        });
+      }
+
+      // Close nav when clicking a link on mobile
+      if (visibleLinks) {
+        visibleLinks.querySelectorAll('a').forEach(function(a) {
+          a.addEventListener('click', function() {
+            if (window.innerWidth <= 57.8125 * 16 && navOpen) toggleNav();
+          });
+        });
+      }
+      if (hiddenLinks) {
+        hiddenLinks.querySelectorAll('a').forEach(function(a) {
+          a.addEventListener('click', function() {
+            if (navOpen) toggleNav();
+          });
+        });
+      }
+
+      // Greedy nav: move overflow items to hidden dropdown on all screen sizes
+      var greedyNav = document.querySelector('.greedy-nav');
+      function checkOverflow() {
+        if (!greedyNav) return;
+        var btn = greedyNav.querySelector('button');
+        var visible = greedyNav.querySelector('.visible-links');
+        var hidden = greedyNav.querySelector('.hidden-links');
+        if (!btn || !visible || !hidden) return;
+
+        var navWidth = greedyNav.offsetWidth;
+        var btnWidth = 40; // approximate button width
+
+        // Reset: move all hidden items back
+        hidden.querySelectorAll('li').forEach(function(li) {
+          visible.appendChild(li);
+        });
+        hidden.classList.remove('is-visible');
+
+        // Iterate from the beginning: items that fit stay in visible-links
+        var totalWidth = btnWidth;
+        var items = Array.from(visible.querySelectorAll('li'));
+        for (var i = 0; i < items.length; i++) {
+          totalWidth += items[i].offsetWidth;
+          if (totalWidth > navWidth) {
+            // This item and all remaining go to hidden-links
+            for (var j = i; j < items.length; j++) {
+              hidden.appendChild(items[j]);
+            }
+            break;
+          }
+        }
+
+        // Show/hide button based on whether there are hidden items
+        btn.style.display = hidden.children.length > 0 ? 'block' : 'none';
+      }
+
+      checkOverflow();
+      window.addEventListener('resize', checkOverflow);
+
+      // Close dropdown when clicking outside
+      document.addEventListener('click', function(e) {
+        if (hiddenLinks && hiddenLinks.classList.contains('is-visible')) {
+          if (!greedyNav.contains(e.target)) {
+            hiddenLinks.classList.remove('is-visible');
+          }
+        }
+      });
     });
     </script>
   </body>
