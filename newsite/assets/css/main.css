@@ -55,9 +55,10 @@ p>code, a>code, li>code { padding: 0.2rem 0.4rem; font-size: 0.9em; background: 
   color: #003262; text-decoration: none; border-bottom: none; transition: color 0.2s ease;
 }
 .greedy-nav a:hover { color: #FDB515; text-decoration: none; }
-.greedy-nav button { background: none; border: none; cursor: pointer; padding: 0.5rem; display: none; }
+.greedy-nav button { background: none; border: none; cursor: pointer; padding: 0.5rem; display: none; position: absolute; right: 0; top: 50%; transform: translateY(-50%); z-index: 10; }
 @media (max-width: 57.8125em) {
   .greedy-nav button { display: block; }
+  .visible-links { padding-right: 2.5rem; }
 }
 .visible-links { display: table; }
 .visible-links li { display: table-cell; vertical-align: middle; }
@@ -85,8 +86,10 @@ p>code, a>code, li>code { padding: 0.2rem 0.4rem; font-size: 0.9em; background: 
 .hidden-links.is-visible a { margin: 0; padding: 0.4rem 0; }
 @media (max-width: 57.8125em) {
   .hidden-links.is-visible {
-    position: static; box-shadow: none; border: none;
-    padding: 0.2em 0;
+    position: absolute; right: 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    border: 1px solid #f2f3f3;
+    padding: 8px 14px;
   }
 }
 
